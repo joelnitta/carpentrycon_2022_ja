@@ -1,0 +1,179 @@
+---
+format:
+  revealjs:
+    slide-level: 2
+    css: styles.css
+    slide-number: true
+    self-contained: true
+    from: markdown+emoji
+---
+
+## Introduction to SWC-JA
+
+### The Carpentries Community<br>in Japan
+
+:::: {.columns}
+
+::: {.column width="80%"}
+<br>
+<br>
+
+Joel Nitta
+
+::: {.medium}
+The University of Tokyo  
+[https://joelnitta.github.io/carpentrycon_2022_trans](https://joelnitta.github.io/carpentrycon_2022_trans)  
+:::
+
+:::
+
+::: {.column width="20%"}
+![](images/swc-ja-logo.png){.absolute fig-alt="SWC-JA logo" height="250" top=75 right=40}
+:::
+
+::::
+
+---
+
+::: {.center}
+![](https://carpentries.org/files/reports/2020-annual-financial-report-charts/2020-Carpentries-Annual-Report-Map.png){fig-alt="Map of workshops around globe" height="600"}
+:::
+
+---
+
+::: {.center}
+![](images/women_researchers_oecd.png){fig-alt="Graph of percentage of women researchers in various countries, with Japan the lowest" height="600"}
+:::
+
+## State of Carpentries in Japan, circa 2018
+
+- Only one workshop held (in English)
+
+- Zero lessons in Japanese
+
+- Zero member organizations
+
+## Beginnings of SWC-JA
+
+- Started with Tom Kelley [presenting at Tokyo-R meetup](https://www.slideshare.net/Fridayitis/presentation-oct2018tokyo-r)
+
+::: {.center}
+![](images/tom_slides.png){fig-alt="Screenshot of first slide of Tom Kelley's presentation on SWC at Tokyo-R in 2018" height="450"}
+:::
+
+## Beginnings of SWC-JA
+
+- Translating lessons was a major goal from the start
+
+::: {.center}
+![](images/tweet.png){fig-alt="Tweet encouraging people to join swc-ja from Tom Kelley" height="400"}
+:::
+
+## Activities
+
+- Translation
+
+- Growing the Carpentries in Japan
+  - Outreach
+  - Workshops
+
+## Translation
+
+- Use [translation system](https://carpentries-i18n-handbook.readthedocs.io/) designed by David Pérez-Suárez
+
+![](images/i18n_repo.png){fig-alt="Screenshot of i18n repo" height="400"}
+
+::: aside
+[https://github.com/swcarpentry-ja/i18n](https://github.com/swcarpentry-ja/i18n)
+:::
+
+## Translation
+
+- Check translations using GitHub PR review tools
+
+:::{.center}
+![](images/swc-ja-review.png){fig-alt="Screenshot of PR review of translation on GitHub" height="400"}
+:::
+
+## Translation
+
+- Completed `R-novice-gapminder`, working on `git-novice`, `shell-novice`
+
+:::{.center}
+![](images/swc-ja-progress.png){fig-alt="Screenshot of progress on GitHub projects in Carpentries-JA repo" height="450"}
+:::
+
+## Translation: Summary
+
+- Green stickies :green_heart:
+  - GitHub works well for collaboration
+  - Can do translation review in browser
+
+- Red stickies :x:
+  - Requirement for git knowlege is a very **high barrier to participation**
+  - **Leads to burnout** because only a few members can contribute
+
+## Translation: Future Plans
+
+- Plan to switch to upcoming "Workbench" format and new translation system
+
+- For more info, see [https://joelnitta.github.io/carpentrycon_2022_trans](https://joelnitta.github.io/carpentrycon_2022_trans)
+
+## Outreach
+
+- Members promote Carpentries at their institutions
+
+- Present at lab meetings, meetups
+
+::: {.center}
+![](images/swc-ja-pres.png){fig-alt="Screenshot of https://swcarpentry-ja.github.io/en/links.html" height="300"}
+:::
+
+::: aside
+[https://swcarpentry-ja.github.io/en/](https://swcarpentry-ja.github.io/en/)
+:::
+
+## Outreach
+
+- [First workshop in Japanese](https://swcarpentry-ja.github.io/2021-04-02-todai-online-en/) at Univ. of Tokyo in 2019, in collaboration with [Beyond AI](https://beyondai.jp/?lang=en)
+
+:::{.center}
+![](images/swc-ja-workshop.png){fig-alt="Screenshot of SWC workshop website in Japanese" height="450"}
+:::
+
+## Communications and collaboration
+
+- Slack `carpentries-ja.slack.com`
+
+- Meetings via Zoom 3-4 times per year
+
+- No formal roles
+
+::: {.center}
+![](images/swc-ja-homepage.png){fig-alt="Screenshot of https://swcarpentry-ja.github.io/en/" height="250"}
+:::
+
+::: aside
+[https://swcarpentry-ja.github.io/en/](https://swcarpentry-ja.github.io/en/)
+:::
+
+## Current status of SWC-JA
+
+- 30 members on Slack (ca. 6 core)
+
+- 1 lesson fully translated
+
+- 1 workshop held in Japanese
+
+- 0 member organizations
+
+## Key points
+
+- Translation is a **prerequisite**
+
+- **Online participation** key to making workshop possible
+
+- Building a Carpentries community from zero is **hard**
+  - Tough to "sell" the concept (lack of cultural familiarity)
+  - Community members not in a position to establish Carpentries in local institutions
+  - Need better outreach **at higher levels**
